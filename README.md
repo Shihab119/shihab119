@@ -24,10 +24,20 @@
 
 # <img src="https://cdn-icons-gif.flaticon.com/11201/11201863.gif" width="40"> Socials:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shihab119)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shihabul-alam-shihab-699008253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dhrubo.shihab)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dhrubo_shihab/)  
+<p align="center">
+  <a href="https://github.com/shihab119">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">
+  </a>
+  <a href="https://www.linkedin.com/in/shihabul-alam-shihab-699008253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
+  </a>
+  <a href="https://www.facebook.com/dhrubo.shihab">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40">
+  </a>
+  <a href="https://www.instagram.com/dhrubo_shihab/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40">
+  </a>
+</p>
 
 # <img src="https://cdn-icons-gif.flaticon.com/12035/12035151.gif" width="40"> Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
