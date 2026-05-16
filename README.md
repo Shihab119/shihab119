@@ -84,8 +84,6 @@
 # <img src="https://user-images.githubusercontent.com/86270481/225367266-7a76485f-9e8a-4343-ab9f-672e1b254018.gif" width="40"> GitHub Stats:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shihab119)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihab119)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shihab119&show_icons=true)  
+ 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=shihab119)  
